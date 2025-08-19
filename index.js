@@ -1,1 +1,1 @@
-// aca se trabaja en cada video
+// aca se trabaja. se runnea con npm run start
