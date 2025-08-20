@@ -11,9 +11,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@langchain/community": "^0.3.53",
     "@langchain/core": "^0.3.70",
     "@langchain/deepseek": "^0.1.0",
     "@langchain/openai": "^0.6.7",
+    "cheerio": "^1.1.2",
     "inquirer": "^12.9.2",
     "langchain": "^0.3.31",
     "zod": "^3.25.76"
